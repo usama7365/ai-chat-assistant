@@ -109,6 +109,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Discussions!
+
+github discussions feature -[Discussions](https://github.com/usama7365/ai-chat-assistant/discussions)
+
+
 ## 📧 Contact
 
 Name - [@usama7365](https://github.com/usama7365)
