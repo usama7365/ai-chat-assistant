@@ -26,7 +26,7 @@ A modern, minimalistic chat interface powered by OpenAI's GPT model with Retriev
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-chat-assistant.git
+git clone https://github.com/usama7365/ai-chat-assistant.git
 cd ai-chat-assistant
 ```
 
@@ -111,6 +111,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/ai-chat-assistant](https://github.com/yourusername/ai-chat-assistant)
+Name - [@usama7365](https://github.com/usama7365)
