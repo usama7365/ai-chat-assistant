@@ -97,7 +97,7 @@ The built files will be in the `dist` directory, ready to be deployed to your pr
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/usama7365/ai-chat-assistant?tab=MIT-1-ov-file#readme) file for details.
 
 ## 🤝 Contributing
 
